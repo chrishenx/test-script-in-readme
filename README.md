@@ -1,1 +1,1 @@
-# test-script-in-readme
+<script>alert("Yeah!");</script>
